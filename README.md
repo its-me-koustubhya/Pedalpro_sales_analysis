@@ -42,10 +42,15 @@ Used **MySQL** for importing and transforming data:
   Retrieved:
 
   - Unique countries
+
     ![alt text](<images/Screenshot 2025-07-17 202340.png>)
+
   - Distinct product categories/subcategories
+
     ![alt text](<images/Screenshot 2025-07-17 202429.png>)
+
   - First and last order dates
+
     ![alt text](<images/Screenshot 2025-07-17 202503.png>)
 
 - Performed **JOIN operations** between `sales`, `customer`, and `product` tables.
