@@ -6,6 +6,10 @@ This project analyzes PedalPro's bicycle and accessories sales data using **Exce
 
 ---
 
+## Dashboard
+
+## ![alt text](images/Dashboard.png)
+
 ## Dataset Overview
 
 ### 1. **Customer Table**
